@@ -15,9 +15,9 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 adeef456dfc6c42a28b88eca7f9f9f28ca80937d .shipit
-SHA1 67d66d52a53ea63a7572c6708d1ad980ac665f28 Changes
-SHA1 a49449b0670f3865a223a5f7ab3e420645830f31 MANIFEST
-SHA1 f7f70166cef94b9d1a28093eb442484c74346431 META.yml
+SHA1 5b16309ef18d5a96507dfd18dacfa91443946086 Changes
+SHA1 06a3f3d74f046d78c4c40a3c94002ef0716d385f MANIFEST
+SHA1 bcdd1e1cdb420b212d2fac0c7dd58d932abc41bd META.yml
 SHA1 530e02b9091060c7ad92e0c01a2a4d7bbca3b877 Makefile.PL
 SHA1 fff586850ff60cc64225ca2afab577bb33a7337b README
 SHA1 171ca38c5eedbe92d2f5eb1e14e1725631960bab inc/Module/Install.pm
@@ -32,7 +32,7 @@ SHA1 fd81bc0e85a1193f278760edb82928d8b4dff2c1 inc/Module/Install/Repository.pm
 SHA1 121a3c95ebbbaea7b75df3ce7e922da7e6a0060f inc/Module/Install/Win32.pm
 SHA1 d9f0ea716ff81c7ae3fcaaf15cc03fb9bf4f01b1 inc/Module/Install/WriteAll.pm
 SHA1 108e94af93b785625dde019b4191774f33ceea13 inc/Test/More.pm
-SHA1 c1b52467d40507dde41960e310c8f4c091862dba lib/App/CLI/Plugin/Parallel/ForkManager.pm
+SHA1 d3d0819ee5912bca483f02bddcf3e830be2c0f22 lib/App/CLI/Plugin/Parallel/ForkManager.pm
 SHA1 8c4abb552dc6c195c037e7ee7ca859169b0235d6 t/00_compile.t
 SHA1 9a29fa76fd37216f21edc243c33c11621e2df738 xt/01_podspell.t
 SHA1 af45507a70a164e09ffc5f37915fd47cbbf083bd xt/02_perlcritic.t
@@ -41,7 +41,7 @@ SHA1 2341ca1eae093f62f04e38e305a1fadccac12f64 xt/perlcriticrc
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.5 (GNU/Linux)
 
-iD8DBQFL4GBpTu6fyoTCPLERAu0CAKDGz8jj1EFjDZsdXKSNaCFAM/6UcQCcD1pN
-KaQ2hhnbl28uR+LfsMl+C3o=
-=k4qq
+iD8DBQFL4LdhTu6fyoTCPLERAm+mAJ9QeHEfqwUAwUuMHFzbWb33e4ZLyACg9h9K
+JYCBRgWpD/gfDfTZ1KAn2mU=
+=QDWb
 -----END PGP SIGNATURE-----

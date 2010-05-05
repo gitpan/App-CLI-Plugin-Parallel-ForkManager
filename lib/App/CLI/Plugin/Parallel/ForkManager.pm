@@ -8,7 +8,7 @@ App::CLI::Plugin::Parallel::ForkManager - for App::CLI::Extension fork plugin mo
 
 =head1 VERSION
 
-1.0
+1.01
 
 =head1 SYNOPSIS
 
@@ -107,6 +107,9 @@ or if --maxprocs option is defined. it applies.
   sub options {
       return ( "maxprocs=i" => "maxprocs" ) ;
   }
+  
+  # execute
+  [kurt@localhost ~] ./myapp fork --maxprocs=10
 
 =head1 METHOD
 
@@ -122,7 +125,7 @@ use base qw(Class::Data::Accessor);
 use Parallel::ForkManager;
 
 __PACKAGE__->mk_classaccessor("pm");
-our $VERSION = '1.0';
+our $VERSION = '1.01';
 
 sub setup {
 
